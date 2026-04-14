@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &453934638387448059
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.22
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.587
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6273953836734112519, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_Name
+      value: Bulbasaur
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      propertyPath: m_Layer
+      value: 8
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: -8142159884891210860, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+    - {fileID: -2256735757251176835, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: 1
+      addedObject: {fileID: 170728739084524006}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: 2
+      addedObject: {fileID: 973544380123005080}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: 3
+      addedObject: {fileID: 5764872708479670432}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6872160333027545466}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5571710451883607791}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7649032345478440603}
+  m_SourcePrefab: {fileID: 100100000, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+--- !u!1 &760504670452544938 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 542e05bef0cffe341ba6b6ba858879da, type: 3}
+  m_PrefabInstance: {fileID: 453934638387448059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!65 &170728739084524006
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.3, y: 1.3, z: 2}
+  m_Center: {x: 0, y: 0.7, z: 0}
+--- !u!135 &973544380123005080
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 2.5
+  m_Center: {x: 0, y: 0.8, z: 0}
+--- !u!54 &5764872708479670432
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 1
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &6872160333027545466
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad03c9ed73fbd7140bf678f77c0a475e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::CaptureablePokemon
+  pokemonName: Bulbasaur
+  level: 5
+  baseHP: 120
+  baseAttack: 12
+  baseDefense: 8
+  catchRate: 190
+  moves:
+  - moveName: Tackle
+    power: 40
+    accuracy: 1
+    maxPP: 35
+    description: Charges the target with a full-body tackle.
+  - moveName: Growl
+    power: 0
+    accuracy: 1
+    maxPP: 40
+    description: "The user growls cutely, lowering the target\u2019s Attack."
+  - moveName: Growl
+    power: 0
+    accuracy: 1
+    maxPP: 40
+    description: "The user growls cutely, lowering the target\u2019s Attack."
+  - moveName: Growl
+    power: 0
+    accuracy: 1
+    maxPP: 40
+    description: "The user growls cutely, lowering the target\u2019s Attack."
+  isCaptured: 0
+  isPlayerOwned: 0
+  captureDifficultyMultiplier: 1
+  runtimeStats:
+    currentHP: 120
+    attack: 12
+    defense: 8
+  moveCurrentPP: 23000000280000002800000028000000
+  logRuntimeChanges: 0
+  playerTriggerLayerName: PlayerPokemonTrigger
+  wildTriggerLayerName: WildPokemonTrigger
+--- !u!114 &5571710451883607791
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3022033b5e6f14094a3dd15131c10b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonFreeRoam
+  pauseWhileInBattle: 1
+  roamRadius: 5
+  moveSpeed: 0.7
+  turnSpeed: 3
+  minIdleSeconds: 5
+  maxIdleSeconds: 7
+  rotateTarget: {fileID: 0}
+  facingYawOffsetDegrees: 0
+  bobTarget: {fileID: 0}
+  bobOnly: 0
+  bobAmplitude: 0.05
+  bobFrequency: 3
+  bobBlendSpeed: 6
+  walkThreshold: 0.05
+  fixedHeight: 0
+  lockToStartHeight: 1
+--- !u!114 &7649032345478440603
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 760504670452544938}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a314ecca7efe023429fbd5d72e85e8b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::PokemonBattleTrigger
+  battleCooldownSeconds: 1
+  enableDebugLogs: 1
+  skipInactivePokemon: 1
+  battleManager: {fileID: 0}

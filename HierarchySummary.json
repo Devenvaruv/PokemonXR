@@ -1,0 +1,39 @@
+{
+    "scene": "SampleScene",
+    "generatedAt": "2026-01-17T22:45:16.3865862Z",
+    "roots": [
+        {
+            "name": "BattleManager",
+            "type": "GameObject",
+            "components": [
+                "BattleManager"
+            ],
+            "children": [
+                {
+                    "name": "Explore Audio Source",
+                    "type": "GameObject",
+                    "components": [
+                        "AudioSource"
+                    ],
+                    "children": []
+                },
+                {
+                    "name": "Battle Audio Source",
+                    "type": "GameObject",
+                    "components": [
+                        "AudioSource"
+                    ],
+                    "children": []
+                },
+                {
+                    "name": "One Time Audio Source",
+                    "type": "GameObject",
+                    "components": [
+                        "AudioSource"
+                    ],
+                    "children": []
+                }
+            ]
+        }
+    ]
+}

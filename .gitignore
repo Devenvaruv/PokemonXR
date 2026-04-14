@@ -1,0 +1,87 @@
+# ========== Unity Generated Folders ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# MemoryCaptures (VR profiling / debugging)
+MemoryCaptures/
+
+# ========== Unity Cache ==========
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# Rider / VS / VSCode
+.vscode/
+.idea/
+*.vcxproj*
+*.opendb
+*.VC.db
+
+# ========== OS Files ==========
+.DS_Store
+Thumbs.db
+
+# ========== Unity Asset Metadata ==========
+# KEEP meta files (important)
+# Do NOT ignore .meta files
+
+# ========== XR / VR Specific ==========
+# Oculus / OpenXR build artifacts
+*.apk
+*.aab
+*.obb
+
+# Android build
+.gradle/
+local.properties
+
+# iOS build
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+
+# ========== Addressables ==========
+ServerData/
+
+# ========== Streaming Assets ==========
+# If you generate runtime data here, ignore selectively
+# Assets/StreamingAssets/Generated/
+
+# ========== Crash Reports ==========
+sysinfo.txt
+
+# ========== Blender / 3D / Temp ==========
+*.blend1
+*.blend2
+*.fbx.meta.old
+
+# ========== Logs ==========
+*.log
+
+# ========== Build Outputs ==========
+*.unitypackage
+
+# ========== Test / Coverage ==========
+TestResults/
+Coverage/
+
+# ========== DOTS / Burst ==========
+*.burst
+
+# ========== Misc ==========
+*.bak
+*.swp
+*.orig
